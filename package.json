@@ -1,6 +1,6 @@
 {
   "name": "eleventy-portfolio-template",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A starter repository for tech portfolio",
   "scripts": {
     "build": "eleventy",
